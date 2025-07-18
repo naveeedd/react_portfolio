@@ -1,0 +1,13 @@
+compatibility_flags = ["nodejs_compat"]
+
+name = "portfolio"
+
+
+account_id = "7ada8dca6b4608bdb3d9eec726412b65"
+workers_dev = true
+compatibility_date = "2025-07-18"
+
+
+kv_namespaces = [
+  { id = "MY_KV", binding = "MY_KV" }
+]
